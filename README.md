@@ -1,2 +1,2 @@
-# gir_test
+# git_test
 Hallo Odin!
